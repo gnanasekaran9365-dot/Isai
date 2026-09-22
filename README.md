@@ -1,2 +1,1 @@
-# Isai
-IsaiWave – Android Music Player with  FX, 10-Band Equalizer and immersive audio experience.
+IsaiWave - Android Music Player with 10-Band Equalizer, Bass Boost and device-supported Dolby Atmos audio.
